@@ -1,0 +1,231 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+com.zzia.cowardsaviour.R$color: int bg
+com.zzia.cowardsaviour.R$color: int bg_gray
+com.zzia.cowardsaviour.R$color: int black
+com.zzia.cowardsaviour.R$color: int black2
+com.zzia.cowardsaviour.R$color: int blue
+com.zzia.cowardsaviour.R$color: int buttom_buttom
+com.zzia.cowardsaviour.R$color: int buttom_centre
+com.zzia.cowardsaviour.R$color: int buttom_top
+com.zzia.cowardsaviour.R$color: int click_color
+com.zzia.cowardsaviour.R$color: int coffee
+com.zzia.cowardsaviour.R$color: int gray
+com.zzia.cowardsaviour.R$color: int light_blue
+com.zzia.cowardsaviour.R$color: int light_gray
+com.zzia.cowardsaviour.R$color: int light_orange
+com.zzia.cowardsaviour.R$color: int lightblue
+com.zzia.cowardsaviour.R$color: int lightorange
+com.zzia.cowardsaviour.R$color: int nomalGray
+com.zzia.cowardsaviour.R$color: int orange
+com.zzia.cowardsaviour.R$color: int orange_red
+com.zzia.cowardsaviour.R$color: int red
+com.zzia.cowardsaviour.R$color: int transparent
+com.zzia.cowardsaviour.R$color: int transparentdarkgray
+com.zzia.cowardsaviour.R$color: int transparentgray
+com.zzia.cowardsaviour.R$color: int txt_blue
+com.zzia.cowardsaviour.R$color: int txt_gray
+com.zzia.cowardsaviour.R$color: int txt_orange
+com.zzia.cowardsaviour.R$color: int white
+com.zzia.cowardsaviour.R$color: int whiteGray
+com.zzia.cowardsaviour.R$color: int yellow
+com.zzia.cowardsaviour.R$dimen: int activity_horizontal_margin
+com.zzia.cowardsaviour.R$dimen: int activity_vertical_margin
+com.zzia.cowardsaviour.R$drawable: int arrow1
+com.zzia.cowardsaviour.R$drawable: int bg_list_item
+com.zzia.cowardsaviour.R$drawable: int czhoft_logo
+com.zzia.cowardsaviour.R$drawable: int ic_launcher
+com.zzia.cowardsaviour.R$drawable: int ic_logo
+com.zzia.cowardsaviour.R$drawable: int ic_logo2
+com.zzia.cowardsaviour.R$drawable: int ic_logo3
+com.zzia.cowardsaviour.R$drawable: int ic_logo4
+com.zzia.cowardsaviour.R$drawable: int ic_pulltorefresh_arrow
+com.zzia.cowardsaviour.R$drawable: int info_icon_3
+com.zzia.cowardsaviour.R$drawable: int kingo
+com.zzia.cowardsaviour.R$drawable: int mm_title_btn_compose_normal
+com.zzia.cowardsaviour.R$drawable: int mm_title_btn_focused
+com.zzia.cowardsaviour.R$drawable: int mm_title_btn_keyboard_normal
+com.zzia.cowardsaviour.R$drawable: int mm_title_btn_normal
+com.zzia.cowardsaviour.R$drawable: int mm_title_btn_pressed
+com.zzia.cowardsaviour.R$drawable: int mm_title_btn_qrcode_normal
+com.zzia.cowardsaviour.R$drawable: int mm_title_btn_receiver_normal
+com.zzia.cowardsaviour.R$drawable: int mm_title_functionframe_line
+com.zzia.cowardsaviour.R$drawable: int mm_title_functionframe_pressed
+com.zzia.cowardsaviour.R$drawable: int tab_bottom
+com.zzia.cowardsaviour.R$drawable: int tab_home_btn_bg
+com.zzia.cowardsaviour.R$drawable: int tab_main_about
+com.zzia.cowardsaviour.R$drawable: int tab_main_about_icon_n
+com.zzia.cowardsaviour.R$drawable: int tab_main_about_icon_p
+com.zzia.cowardsaviour.R$drawable: int tab_main_login
+com.zzia.cowardsaviour.R$drawable: int tab_main_login_icon_n
+com.zzia.cowardsaviour.R$drawable: int tab_main_login_icon_p
+com.zzia.cowardsaviour.R$drawable: int tab_main_setting
+com.zzia.cowardsaviour.R$drawable: int tab_main_setting_icon_n
+com.zzia.cowardsaviour.R$drawable: int tab_main_setting_icon_p
+com.zzia.cowardsaviour.R$drawable: int tab_main_signin
+com.zzia.cowardsaviour.R$drawable: int tab_main_signin_icon_n
+com.zzia.cowardsaviour.R$drawable: int tab_main_signin_icon_p
+com.zzia.cowardsaviour.R$drawable: int tab_menus
+com.zzia.cowardsaviour.R$drawable: int tab_trans
+com.zzia.cowardsaviour.R$drawable: int tips
+com.zzia.cowardsaviour.R$drawable: int title_bar
+com.zzia.cowardsaviour.R$drawable: int title_btn_function
+com.zzia.cowardsaviour.R$drawable: int title_button
+com.zzia.cowardsaviour.R$id: int ImageView3
+com.zzia.cowardsaviour.R$id: int ImageView4
+com.zzia.cowardsaviour.R$id: int TextView01
+com.zzia.cowardsaviour.R$id: int TextView02
+com.zzia.cowardsaviour.R$id: int action_settings
+com.zzia.cowardsaviour.R$id: int btnLogin
+com.zzia.cowardsaviour.R$id: int btnSignIn
+com.zzia.cowardsaviour.R$id: int checkBox1
+com.zzia.cowardsaviour.R$id: int etAddress
+com.zzia.cowardsaviour.R$id: int etIME
+com.zzia.cowardsaviour.R$id: int etMemo
+com.zzia.cowardsaviour.R$id: int etPW
+com.zzia.cowardsaviour.R$id: int etServer
+com.zzia.cowardsaviour.R$id: int etUserName
+com.zzia.cowardsaviour.R$id: int etVer
+com.zzia.cowardsaviour.R$id: int etX
+com.zzia.cowardsaviour.R$id: int etY
+com.zzia.cowardsaviour.R$id: int head_arrowImageView
+com.zzia.cowardsaviour.R$id: int head_contentLayout
+com.zzia.cowardsaviour.R$id: int head_lastUpdatedTextView
+com.zzia.cowardsaviour.R$id: int head_progressBar
+com.zzia.cowardsaviour.R$id: int head_tipsTextView
+com.zzia.cowardsaviour.R$id: int imageView1
+com.zzia.cowardsaviour.R$id: int imageView2
+com.zzia.cowardsaviour.R$id: int image_myExam_infoIcon
+com.zzia.cowardsaviour.R$id: int image_myExam_tringle
+com.zzia.cowardsaviour.R$id: int layout_myexam_item
+com.zzia.cowardsaviour.R$id: int main_tab_about
+com.zzia.cowardsaviour.R$id: int main_tab_group
+com.zzia.cowardsaviour.R$id: int main_tab_login
+com.zzia.cowardsaviour.R$id: int main_tab_new_message
+com.zzia.cowardsaviour.R$id: int main_tab_settings
+com.zzia.cowardsaviour.R$id: int main_tab_signin
+com.zzia.cowardsaviour.R$id: int myexam_listview
+com.zzia.cowardsaviour.R$id: int spinner1
+com.zzia.cowardsaviour.R$id: int tab_about_tv_lic
+com.zzia.cowardsaviour.R$id: int tab_login_btn_login
+com.zzia.cowardsaviour.R$id: int tab_login_status
+com.zzia.cowardsaviour.R$id: int tab_login_tv_loginid
+com.zzia.cowardsaviour.R$id: int tab_login_tv_status
+com.zzia.cowardsaviour.R$id: int tab_setting_btn_GetPos
+com.zzia.cowardsaviour.R$id: int tab_setting_btn_SavePro
+com.zzia.cowardsaviour.R$id: int tab_signin_btn_signin
+com.zzia.cowardsaviour.R$id: int tab_signin_tv_loginid
+com.zzia.cowardsaviour.R$id: int tab_signin_tv_operate
+com.zzia.cowardsaviour.R$id: int tab_signin_tv_status
+com.zzia.cowardsaviour.R$id: int textView1
+com.zzia.cowardsaviour.R$id: int textView2
+com.zzia.cowardsaviour.R$id: int textView3
+com.zzia.cowardsaviour.R$id: int textView4
+com.zzia.cowardsaviour.R$id: int textView5
+com.zzia.cowardsaviour.R$id: int textView6
+com.zzia.cowardsaviour.R$id: int textView7
+com.zzia.cowardsaviour.R$id: int text_myExam_content
+com.zzia.cowardsaviour.R$id: int text_myExam_info
+com.zzia.cowardsaviour.R$id: int title
+com.zzia.cowardsaviour.R$id: int title_main_btn_fun
+com.zzia.cowardsaviour.R$id: int title_main_btn_logo
+com.zzia.cowardsaviour.R$id: int tvLoginInfo
+com.zzia.cowardsaviour.R$id: int tvSIRes
+com.zzia.cowardsaviour.R$layout: int activity_main
+com.zzia.cowardsaviour.R$layout: int activity_main_old
+com.zzia.cowardsaviour.R$layout: int activity_main_tab
+com.zzia.cowardsaviour.R$layout: int addexam
+com.zzia.cowardsaviour.R$layout: int list_head
+com.zzia.cowardsaviour.R$layout: int myexam
+com.zzia.cowardsaviour.R$layout: int myexam_item
+com.zzia.cowardsaviour.R$layout: int mymessage
+com.zzia.cowardsaviour.R$layout: int setting
+com.zzia.cowardsaviour.R$layout: int tab_about
+com.zzia.cowardsaviour.R$layout: int tab_login
+com.zzia.cowardsaviour.R$layout: int tab_setting
+com.zzia.cowardsaviour.R$layout: int tab_signin
+com.zzia.cowardsaviour.R$menu: int main
+com.zzia.cowardsaviour.R$string: int action_settings
+com.zzia.cowardsaviour.R$string: int app_name
+com.zzia.cowardsaviour.R$string: int hello_world
+com.zzia.cowardsaviour.R$style: int AppBaseTheme
+com.zzia.cowardsaviour.R$style: int AppTheme
+com.zzia.cowardsaviour.R$style: int TabButton
+com.zzia.cowardsaviour.activity.BaseActivity: BaseActivity()
+com.zzia.cowardsaviour.activity.MainActivity
+com.zzia.cowardsaviour.activity.MainActivity: MainActivity()
+com.zzia.cowardsaviour.activity.TabAboutActivity
+com.zzia.cowardsaviour.activity.TabAboutActivity: TabAboutActivity()
+com.zzia.cowardsaviour.activity.TabLoginActivity
+com.zzia.cowardsaviour.activity.TabLoginActivity: TabLoginActivity()
+com.zzia.cowardsaviour.activity.TabSettingActivity
+com.zzia.cowardsaviour.activity.TabSettingActivity: TabSettingActivity()
+com.zzia.cowardsaviour.activity.TabSigninActivity
+com.zzia.cowardsaviour.activity.TabSigninActivity: TabSigninActivity()
+com.zzia.cowardsaviour.view.MyListView
+com.zzia.cowardsaviour.view.MyListView: MyListView(android.content.Context)
+com.zzia.cowardsaviour.view.MyListView: MyListView(android.content.Context,android.util.AttributeSet)
+com.zzia.cowardsaviour.view.MyListView: void setOnRefreshListener(com.zzia.cowardsaviour.view.MyListView$OnRefreshListener)
+com.zzia.cowardsaviour.view.MyListView: void setAdapter(android.widget.BaseAdapter)

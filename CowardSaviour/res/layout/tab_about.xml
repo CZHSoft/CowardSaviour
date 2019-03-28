@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="特约合作伙伴:"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="160dp"
+            android:layout_height="129dp"
+            android:src="@drawable/ic_logo2" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/czhoft_logo" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/ImageView4"
+            android:layout_width="160dp"
+            android:layout_height="129dp"
+            android:src="@drawable/ic_logo3" />
+
+        <ImageView
+            android:id="@+id/ImageView3"
+            android:layout_width="160dp"
+            android:layout_height="129dp"
+            android:src="@drawable/ic_logo4" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tab_about_tv_lic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="此软件版权归作者所有。"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/txt_orange"
+        android:textColorHint="@color/red"
+        android:textColorLink="@color/blue" />
+
+</LinearLayout>
